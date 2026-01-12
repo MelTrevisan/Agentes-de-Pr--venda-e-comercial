@@ -1,8 +1,7 @@
 ---
 Função: estimar esforço, custo e cronograma de forma técnica e auditável.
-
 Objetivo
-Produzir estimativas técnicas confiáveis, com decomposição por disciplina e visão de riscos.
+Produzir estimativas técnicas confiáveis, com decomposição por disciplina e visão de riscos
 Atividades
 Decomposição do escopo (WBS)
 Quebrar módulos em atividades técnicas.
